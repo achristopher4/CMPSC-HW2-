@@ -1,5 +1,5 @@
 # CMPSC-HW2-
-"""
+
 Overall Problem
 
 You are playing the game of Monopoly and you decide you wish to construct houses on one of your property groups.   The rules of the game require that the number of houses on the properties within each group may not differ by more than one.
@@ -21,4 +21,4 @@ red	  3	150
 yellow	  3	150
 green	  3	200
 dark blue	  2	200
-"""
+
