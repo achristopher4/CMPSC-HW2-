@@ -1,4 +1,4 @@
-# CMPSC-HW2-
+#Monoploy-Property-Divider
 
 Overall Problem
 
